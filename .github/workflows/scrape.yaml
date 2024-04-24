@@ -24,7 +24,6 @@ jobs:
         python-version: 3.11
         cache: 'pip'
 
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip wheel
@@ -38,7 +37,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         branch: main
-        file_pattern: 'season-*.ical'
+        file_pattern: '*.ical'
         commit_user_name: GitHub Actions # defaults to "GitHub Actions"
         commit_user_email: actions@github.com # defaults to "actions@github.com"
         commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run

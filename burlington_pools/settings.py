@@ -12,9 +12,10 @@ BOT_NAME = "burlington_pools"
 SPIDER_MODULES = ["burlington_pools.spiders"]
 NEWSPIDER_MODULE = "burlington_pools.spiders"
 
+LOG_LEVEL = 'INFO'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = "burlington_pools (+http://www.yourdomain.com)"
+USER_AGENT = "ical exporter (+https://verselogic.net)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
