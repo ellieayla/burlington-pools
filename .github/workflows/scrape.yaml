@@ -1,0 +1,44 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 10 * * 2'  # 10:05h UTC on Tuesday
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+        cache: 'pip'
+
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip wheel
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Fetch latest data
+      run: |
+        scrapy crawl BurlingtonPools -o allpools.ical
+
+    - name: Commit and push if it changed
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        branch: main
+        file_pattern: 'season-*.ical'
+        commit_user_name: GitHub Actions # defaults to "GitHub Actions"
+        commit_user_email: actions@github.com # defaults to "actions@github.com"
+        commit_author: GitHub Actions <actions@github.com> # defaults to author of the commit that triggered the run
