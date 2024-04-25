@@ -101,6 +101,7 @@ FEEDS = {
     'allpools.ical': {
         'format': 'ical',
         'overwrite': True,
+        'item_filter': 'burlington_pools.filters.DropUninterestingEvents',
         'item_classes': ["burlington_pools.items.BookableDate"],
     }
 }

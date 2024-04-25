@@ -78,7 +78,9 @@ class BurlingtonPools(scrapy.Spider):
                 event_id = c['EventId'],
                 event_occurrence = c['OccurrenceDate'],
     
-                name = f"{str.strip(c['EventName'])}, {c['Location']}, {c['Facility']}",
+                name = str.strip(c['EventName']),
+                location = str.strip(c['Location']),
+                facility = str.strip(c['Facility']),
                 details = str.strip(c['Details']),
 
                 start_time = _parse_date_time(c['FormattedStartDate'], c['FormattedStartTime']),

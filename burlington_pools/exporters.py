@@ -34,7 +34,7 @@ class ICalItemExporter(BaseItemExporter):
         e = icalendar.Event()
         e.add('last-modified', icalendar.vDatetime(datetime.now(pytz.UTC)))
         e.add('dtstamp', icalendar.vDatetime(itemdict['start_time']))
-        e.add('summary', icalendar.vText(itemdict['name']))
+        e.add('summary', icalendar.vText(f"{itemdict['name']}, {itemdict['location']}, {itemdict['facility']}"))
         e.add('location', icalendar.vText(itemdict['address']))
 
         e.add('uid', icalendar.vText(uuid5(ns, itemdict['event_id'] + itemdict['event_occurrence'])))

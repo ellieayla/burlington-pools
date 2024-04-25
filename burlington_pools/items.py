@@ -70,6 +70,9 @@ class BookableDate(scrapy.Item):
     event_occurrence = Field()
 
     name = Field()
+    location = Field()
+    facility = Field()
+    
     details = Field()
 
     start_time = Field()
