@@ -39,7 +39,7 @@ class ICalItemExporter(BaseItemExporter):
 
         e.add('uid', icalendar.vText(uuid5(ns, itemdict['event_id'] + itemdict['event_occurrence'])))
 
-        e.add('description', icalendar.vText(f"{itemdict['details']}\n\n{itemdict['time_range_description']}\n{itemdict['displayable_restriction']}\n{itemdict['price_range']}\n{itemdict['spots_remaining']}"))
+        e.add('description', icalendar.vText(f"{itemdict['details']}\n\n{itemdict['time_range_description']}\n{itemdict['price_range']}\n{itemdict['spots_remaining']}"))
 
         e.add('dtstart', icalendar.vDatetime(itemdict['start_time']))
         e.add('dtend', icalendar.vDatetime(itemdict['end_time']))
