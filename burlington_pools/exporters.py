@@ -35,17 +35,16 @@ class ICalItemExporter(BaseItemExporter):
         e.add('last-modified', icalendar.vDatetime(datetime.now(pytz.UTC)))
         e.add('dtstamp', icalendar.vDatetime(itemdict['start_time']))
         e.add('summary', icalendar.vText(itemdict['name']))
-        e.add('location', icalendar.vCalAddress(itemdict['address']))
-                
+        e.add('location', icalendar.vText(itemdict['address']))
+
         e.add('uid', icalendar.vText(uuid5(ns, itemdict['event_id'] + itemdict['event_occurrence'])))
 
-        e.add('description', icalendar.vText(itemdict['details']))
+        e.add('description', icalendar.vText(f"{itemdict['details']}\n\n{itemdict['time_range_description']}\n{itemdict['displayable_restriction']}\n{itemdict['price_range']}\n{itemdict['spots_remaining']}"))
 
         e.add('dtstart', icalendar.vDatetime(itemdict['start_time']))
         e.add('dtend', icalendar.vDatetime(itemdict['end_time']))
 
-        e.add('comment', icalendar.vText(f"{itemdict['displayable_restriction']}\n{itemdict['price_range']}\n{itemdict['spots_remaining']}"))
-        e.add('ur', icalendar.vText(itemdict['url']))
+        e.add('url', icalendar.vText(itemdict['url']))
 
         self.cal.add_component(e)
 

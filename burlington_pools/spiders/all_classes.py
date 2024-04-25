@@ -45,7 +45,7 @@ class BurlingtonPools(scrapy.Spider):
     def parse(self, response):
         # this page contains a form with an Input element "__RequestVerificationToken" whose value must be included on subsequent requests
         verification_token = response.xpath('//form[@id="AjaxAntiForgeryForm"]/input[@name="__RequestVerificationToken"]/@value').get()
-        print(">>>>> verification_token: ", verification_token)
+        # print(">>>>> verification_token: ", verification_token)
 
         return scrapy.FormRequest(
             url='https://cityofburlington.perfectmind.com/22818/Clients/BookMe4BookingPagesV2/ClassesV2',
@@ -79,15 +79,16 @@ class BurlingtonPools(scrapy.Spider):
                 event_occurrence = c['OccurrenceDate'],
     
                 name = f"{str.strip(c['EventName'])}, {c['Location']}, {c['Facility']}",
-                details = c['Details'],
+                details = str.strip(c['Details']),
 
                 start_time = _parse_date_time(c['FormattedStartDate'], c['FormattedStartTime']),
                 end_time = _parse_date_time(c['FormattedEndDate'], c['FormattedEndTime']),
+                time_range_description = str.strip(c['EventTimeDescription']),
                 duration_minutes = c['DurationInMinutes'],
 
                 #  Address: {'AddressTag': 'Centennial Pool', 'Street': '5151 New Street', 'City': 'Burlington', 'PostalCode': 'L7P 4J5', 'CountryId': 0, 'Country': '', 'StateProvinceId': 0, 'AnyFieldMissing': True, 'Latitude': 43.37193, 'Longitude': -79.750327, 'Id': '1caa5785-bc69-469c-ac36-5ae3758860d3'}
                 address = f"{c['Address']['AddressTag']}, {c['Address']['Street']}, {c['Address']['City']}, {c['Address']['PostalCode']}",
- 
+
                 instructor = c['Instructor']['FullName'] or None,
 
                 displayable_restriction = f"Restriction: {c['DisplayableRestrictionsForCourses'], c['GenderRestrictions']}",

@@ -75,6 +75,7 @@ class BookableDate(scrapy.Item):
     start_time = Field()
     end_time = Field()
     duration_minutes = Field()
+    time_range_description = Field()
 
     address = Field()
     location = Field()
