@@ -19,8 +19,8 @@ DEFAULT_SEARCH = {
     'values[0][ValueKind]': '9',
 
     'values[1][Name]': 'Date Range',
-    'values[1][Value]': '%sT00:00:00.000Z' % date.now(),
-    'values[1][Value2]': '%sT00:00:00.000Z' % date.now() + datetime.timedelta(days=40),
+    'values[1][Value]': '%sT00:00:00.000Z' % date.today(),
+    'values[1][Value2]': '%sT00:00:00.000Z' % date.today() + datetime.timedelta(days=40),
     'values[1][ValueKind]': '6',
 
     'values[2][Name]': 'Age',
