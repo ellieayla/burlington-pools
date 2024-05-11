@@ -3,7 +3,7 @@ from pathlib import Path
 import scrapy
 
 from burlington_pools.items import BookableDate
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 import dateutil
 import pytz
 import uuid
@@ -19,8 +19,8 @@ DEFAULT_SEARCH = {
     'values[0][ValueKind]': '9',
 
     'values[1][Name]': 'Date Range',
-    'values[1][Value]': '2024-04-24T00:00:00.000Z',
-    'values[1][Value2]': '2024-05-08T00:00:00.000Z',
+    'values[1][Value]': '%sT00:00:00.000Z' % date.now(),
+    'values[1][Value2]': '%sT00:00:00.000Z' % date.now() + datetime.timedelta(days=40),
     'values[1][ValueKind]': '6',
 
     'values[2][Name]': 'Age',
