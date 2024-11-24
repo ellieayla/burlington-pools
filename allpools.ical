@@ -2,110 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//BurlingtonPools//verselogic.net//
 BEGIN:VEVENT
-SUMMARY:Fun Swim\, Tansley Woods Community Centre\, Lap Pool
-DTSTART:20241123T133000
-DTEND:20241123T153000
-DTSTAMP:20241123T133000
-UID:ae3feb56-1708-59f9-9a32-df0d0d27d7d3
-DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
-  both lap and leisure pool available for use. Amenities:  Double looped Wa
- terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
- on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
- 01:30 pm - 03:30 pm\n$0.00 - $3.33\n290 spot(s) left
-LAST-MODIFIED:20241123T035017Z
-LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
-  L7M 1C7
-URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
- ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
- ededMode=False&classId=d39677ac-10a7-555d-8528-e216c2e2711f&occurrenceDate
- =20241123
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fun Swim\, Aldershot Pool\, Lap Pool
-DTSTART:20241123T133500
-DTEND:20241123T153000
-DTSTAMP:20241123T133500
-UID:4d3c5d39-c35f-534b-a5a8-66f1435f2ced
-DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
- ot Pool (88F/31C).  All ages are welcome and the Rock Climbing Wall is ope
- n for use.  Regular Swim Admission & Supervision Standards apply. Details 
- are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
-  $3.33\n170 spot(s) left
-LAST-MODIFIED:20241123T035017Z
-LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
-URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
- ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
- ededMode=False&classId=1949987d-b2e7-f9f1-64eb-93415b9e8b1c&occurrenceDate
- =20241123
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fun Swim\, Angela Coughlan Pool\, Lap Pool
-DTSTART:20241123T144500
-DTEND:20241123T170000
-DTSTAMP:20241123T144500
-UID:08e963df-a09b-5809-860c-c960ff2863a5
-DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
- ith both lap and warm water pool available for use. Fun features of the po
- ol are available for everyone to enjoy.  Operational features include:  Wa
- rming pool\, diving board\, inclusive changeroom spaces.   \nSwimmers ente
- ring Angela Coughlan Fun swims must adhere to the Admission Policy. Detail
- s are listed at Burlington.ca/playstandards.\nAll swimmers are reminded 
- “If you aren't within Arms Reach\, You've gone too far”. Direct Superv
- ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
- lk-in spots are available on a first come first serve basis for all Fun Sw
- ims.\n\n02:45 pm - 05:00 pm\n$0.00 - $3.33\n63 spot(s) left
-LAST-MODIFIED:20241123T035017Z
-LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
- 4R6
-URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
- ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
- ededMode=False&classId=892f9328-2719-bf7d-27ef-20b9f172714c&occurrenceDate
- =20241123
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fun Swim\, Centennial Pool\, Lap Pool
-DTSTART:20241123T153000
-DTEND:20241123T173000
-DTSTAMP:20241123T153000
-UID:90f588a6-6b3c-5a10-af2e-3d6c4d52454b
-DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
-  both lap and leisure pool available for use. Amenities:  Diving board. Re
- gular Swim Admission & Supervision Standards apply. Details are listed at 
- burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\n22 spo
- t(s) left
-LAST-MODIFIED:20241123T035017Z
-LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
-URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
- ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
- ededMode=False&classId=bd87e60d-ddce-ab39-beb5-7e7aa890de99&occurrenceDate
- =20241123
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sensory Friendly Swim\, Tansley Woods Community Centre\, Lap Pool
-DTSTART:20241123T160000
-DTEND:20241123T170000
-DTSTAMP:20241123T160000
-UID:dc406db6-3424-5301-afad-ba84c3cc9723
-DESCRIPTION:Sensory  Swim offers a friendly and inclusive setting for part
- icipants with sensory sensitivities. We welcome people with a high sensiti
- vity to external stimuli such as crowds\, bright lights\, loud\, sudden no
- ises\, smells\, or social situations. Participants may have a learning dis
- ability\, attention deficit and anxiety disorders\, obsessive-compulsive d
- isorder\, or other conditions that processes information in a way that is 
- not typical of most individuals.\n\nOur Sensory Swim is an adaptive swimmi
- ng environment for children\, youth and adults of all abilities. No music\
- , a smaller group of swimmers\, no whistles (unless necessary) and quiet c
- hanging rooms. Accompanying adults and or support persons swim free of cha
- rge.\n\n04:00 pm - 05:00 pm\n$0.00 - $3.33\n35 spot(s) left
-LAST-MODIFIED:20241123T035017Z
-LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
-  L7M 1C7
-URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
- ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
- ededMode=False&classId=5bc682db-5c4b-1c25-1208-deb22fa3d5e8&occurrenceDate
- =20241123
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fun Swim\, Angela Coughlan Pool\, Lap Pool
 DTSTART:20241124T103500
 DTEND:20241124T123000
@@ -120,8 +16,8 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  “If you aren't within Arms Reach\, You've gone too far”. Direct Superv
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
- ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n64 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n43 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -141,8 +37,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n12:15 pm - 01:30 pm\n$0.00 - $3.33\n45 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ ystandards.\n\n12:15 pm - 01:30 pm\n$0.00 - $3.33\n41 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -165,7 +61,7 @@ DESCRIPTION:This women's only open swim is available to all ages and swimm
  s “Within Arms Reach\, In the Water and In Swim Attire”.\nWalk-in spot
  s are available on a first come first serve basis for all Drop-In Swims.\n
  \n01:00 pm - 03:00 pm\n$0.00 - $3.33\n73 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -182,8 +78,8 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Double looped Wa
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
- 01:30 pm - 03:30 pm\n$0.00 - $3.33\n302 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ 01:30 pm - 03:30 pm\n$0.00 - $3.33\n296 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -206,8 +102,8 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  “If you aren't within Arms Reach\, You've gone too far”. Direct Superv
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
- ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n68 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n65 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -226,7 +122,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:15 pm\n$0.00 -
   $3.33\n175 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -245,8 +141,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n03:30 pm - 05:3
- 0 pm\n$0.00 - $3.33\n12 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ 0 pm\n$0.00 - $3.33\n10 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -265,8 +161,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
- 0 am\n$0.00 - $3.33\n65 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ 0 am\n$0.00 - $3.33\n61 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -285,8 +181,8 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  to deep and shallow areas with one or two lanes available to complete laps
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
- all Combo Swims.\n\n09:00 am - 10:45 am\n$0.00 - $3.33\n18 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ all Combo Swims.\n\n09:00 am - 10:45 am\n$0.00 - $3.33\n17 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -306,8 +202,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving Board and leisure pool a
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
- n\n10:00 am - 11:55 am\n$0.00 - $3.33\n72 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ n\n10:00 am - 11:55 am\n$0.00 - $3.33\n71 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -327,8 +223,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n44 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n38 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -347,8 +243,8 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  to deep and shallow areas with one or two lanes available to complete laps
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
- all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n24 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n23 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -368,8 +264,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving Board and leisure pool a
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
- n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n72 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+ n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n71 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -390,7 +286,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n07:30 pm - 09:30 pm\n$0.00 - $3.33\n50 spot(s) left
-LAST-MODIFIED:20241123T035017Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -409,8 +305,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
- 0 am\n$0.00 - $3.33\n63 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ 0 am\n$0.00 - $3.33\n61 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -430,7 +326,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n24 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -451,7 +347,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n73 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -471,8 +367,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n45 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n39 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -492,7 +388,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n27 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -511,8 +407,8 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  to deep and shallow areas with one or two lanes available to complete laps
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
- all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n23 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n22 spot(s) left
+LAST-MODIFIED:20241124T035237Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -532,8 +428,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
- 0 am\n$0.00 - $3.33\n66 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ 0 am\n$0.00 - $3.33\n65 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -552,8 +448,8 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  to deep and shallow areas with one or two lanes available to complete laps
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
- all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n23 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n20 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -573,8 +469,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving Board and leisure pool a
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
- n\n10:00 am - 11:55 am\n$0.00 - $3.33\n70 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ n\n10:00 am - 11:55 am\n$0.00 - $3.33\n69 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -594,8 +490,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n46 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n45 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -615,7 +511,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:00 pm\n$0.00 - $3.33\n25 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -636,7 +532,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n75 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -657,7 +553,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n08:00 pm - 09:30 pm\n$0.00 - $3.33\n50 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -676,7 +572,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
  e their lifesaving skills and receive feedback from aquatic instructors.  
  Regular swim admission standards apply.  Details are listed at burlington.
  ca/playstandards.\n\n08:30 pm - 09:30 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -696,8 +592,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
- 0 am\n$0.00 - $3.33\n64 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ 0 am\n$0.00 - $3.33\n63 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -717,7 +613,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n24 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -737,8 +633,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving Board and leisure pool a
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
- n\n10:00 am - 11:55 am\n$0.00 - $3.33\n73 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ n\n10:00 am - 11:55 am\n$0.00 - $3.33\n71 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -758,8 +654,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n47 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+ ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n42 spot(s) left
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -779,7 +675,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n30 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -799,7 +695,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n25 spot(s) left
-LAST-MODIFIED:20241123T035018Z
+LAST-MODIFIED:20241124T035238Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -819,8 +715,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving board is not available d
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
- 0 am\n$0.00 - $3.33\n69 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+ 0 am\n$0.00 - $3.33\n68 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -839,8 +735,8 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  to deep and shallow areas with one or two lanes available to complete laps
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
- all Combo Swims.\n\n09:00 am - 10:45 am\n$0.00 - $3.33\n24 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+ all Combo Swims.\n\n09:00 am - 10:45 am\n$0.00 - $3.33\n23 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -860,8 +756,8 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
   is monitored for safety by Aquatic staff. Diving Board and leisure pool a
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
- n\n10:00 am - 11:55 am\n$0.00 - $3.33\n71 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+ n\n10:00 am - 11:55 am\n$0.00 - $3.33\n70 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -881,8 +777,8 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  e available. Capacity in the lane is monitored for safety by Aquatic staff
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
- ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n47 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+ ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n44 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -900,7 +796,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:00 pm\n$0.00 - $3.33\n305 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -919,7 +815,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n06:00 pm - 08:00 pm\n$0.00 -
   $3.33\n175 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -936,8 +832,8 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Double looped Wa
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
- 07:15 pm - 09:30 pm\n$0.00 - $3.33\n305 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+ 07:15 pm - 09:30 pm\n$0.00 - $3.33\n303 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -955,8 +851,8 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Double looped Wa
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
- 01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+ 01:30 pm - 03:30 pm\n$0.00 - $3.33\n305 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -974,8 +870,8 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  ot Pool (88F/31C).  All ages are welcome and the Rock Climbing Wall is ope
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
-  $3.33\n
-LAST-MODIFIED:20241123T035019Z
+  $3.33\n175 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -997,8 +893,8 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  “If you aren't within Arms Reach\, You've gone too far”. Direct Superv
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
- ims.\n\n02:45 pm - 05:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+ ims.\n\n02:45 pm - 05:00 pm\n$0.00 - $3.33\n75 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1015,8 +911,9 @@ UID:d8363d15-4367-5313-b63c-6edb6e429192
 DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
- burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+ burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\n25 spo
+ t(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1039,8 +936,8 @@ DESCRIPTION:Sensory  Swim offers a friendly and inclusive setting for part
  ng environment for children\, youth and adults of all abilities. No music\
  , a smaller group of swimmers\, no whistles (unless necessary) and quiet c
  hanging rooms. Accompanying adults and or support persons swim free of cha
- rge.\n\n04:00 pm - 05:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+ rge.\n\n04:00 pm - 05:00 pm\n$0.00 - $3.33\n40 spot(s) left
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1059,7 +956,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
   their lifesaving skills and receive feedback from aquatic instructors.  R
  egular swim admission standards apply.  Details are listed at burlington.c
  a/playstandards.\n\n07:30 pm - 09:00 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1083,7 +980,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1104,7 +1001,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n12:15 pm - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1129,7 +1026,7 @@ DESCRIPTION:This drop-in program strives to make this swim as inclusive as
   In the Water and In Swim Attire”.\nWalk-in spots are available on a fir
  st come first serve basis for all Drop-In Swims.\n\n01:00 pm - 03:00 pm\n$
  0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1147,7 +1044,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1171,7 +1068,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1190,7 +1087,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:15 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1210,7 +1107,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n03:30 pm - 05:3
  0 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035019Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1230,7 +1127,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1250,7 +1147,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1271,7 +1168,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1292,7 +1189,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1312,7 +1209,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1333,7 +1230,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1354,7 +1251,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n07:30 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1374,7 +1271,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1394,7 +1291,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1415,7 +1312,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1436,7 +1333,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1456,7 +1353,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1476,7 +1373,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035020Z
+LAST-MODIFIED:20241124T035239Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1497,7 +1394,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1517,7 +1414,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1538,7 +1435,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1559,7 +1456,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1579,7 +1476,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1600,7 +1497,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1621,7 +1518,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n08:00 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1640,7 +1537,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
  e their lifesaving skills and receive feedback from aquatic instructors.  
  Regular swim admission standards apply.  Details are listed at burlington.
  ca/playstandards.\n\n08:30 pm - 09:30 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1661,7 +1558,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1681,7 +1578,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1702,7 +1599,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1723,7 +1620,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1743,7 +1640,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1763,7 +1660,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035021Z
+LAST-MODIFIED:20241124T035240Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1784,7 +1681,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1804,7 +1701,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1825,7 +1722,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1846,7 +1743,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1864,7 +1761,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1883,7 +1780,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n06:00 pm - 08:00 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1901,7 +1798,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  07:15 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1920,7 +1817,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1939,7 +1836,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -1962,7 +1859,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n02:45 pm - 05:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -1980,7 +1877,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2004,7 +1901,7 @@ DESCRIPTION:Sensory  Swim offers a friendly and inclusive setting for part
  , a smaller group of swimmers\, no whistles (unless necessary) and quiet c
  hanging rooms. Accompanying adults and or support persons swim free of cha
  rge.\n\n04:00 pm - 05:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2023,7 +1920,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
   their lifesaving skills and receive feedback from aquatic instructors.  R
  egular swim admission standards apply.  Details are listed at burlington.c
  a/playstandards.\n\n07:30 pm - 09:00 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2047,7 +1944,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2068,7 +1965,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n12:15 pm - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2092,7 +1989,7 @@ DESCRIPTION:This women's only open swim is available to all ages and swimm
  thin Arms Reach\, In the Water and In Swim Attire”.\nWalk-in spots are a
  vailable on a first come first serve basis for all Drop-In Swims.\n\n01:00
   pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2110,7 +2007,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2134,7 +2031,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2153,7 +2050,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:15 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2174,7 +2071,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  ime. Regular Swim Admission & Supervision Standards apply. Details are lis
  ted at burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\
  n
-LAST-MODIFIED:20241123T035022Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2194,7 +2091,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2214,7 +2111,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2235,7 +2132,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2256,7 +2153,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2276,7 +2173,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2297,7 +2194,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2318,7 +2215,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n07:30 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2338,7 +2235,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2358,7 +2255,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2379,7 +2276,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2400,7 +2297,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2420,7 +2317,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2440,7 +2337,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035023Z
+LAST-MODIFIED:20241124T035241Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2461,7 +2358,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2481,7 +2378,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2502,7 +2399,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2523,7 +2420,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2543,7 +2440,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2564,7 +2461,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2585,7 +2482,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n08:00 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2604,7 +2501,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
  e their lifesaving skills and receive feedback from aquatic instructors.  
  Regular swim admission standards apply.  Details are listed at burlington.
  ca/playstandards.\n\n08:30 pm - 09:30 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2625,7 +2522,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2645,7 +2542,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2666,7 +2563,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2687,7 +2584,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2707,7 +2604,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2727,7 +2624,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035024Z
+LAST-MODIFIED:20241124T035242Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2748,7 +2645,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2768,7 +2665,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2789,7 +2686,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2810,7 +2707,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2828,7 +2725,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2847,7 +2744,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n06:00 pm - 08:00 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2865,7 +2762,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  07:15 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2884,7 +2781,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2903,7 +2800,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2926,7 +2823,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n02:45 pm - 05:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2944,7 +2841,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -2968,7 +2865,7 @@ DESCRIPTION:Sensory  Swim offers a friendly and inclusive setting for part
  , a smaller group of swimmers\, no whistles (unless necessary) and quiet c
  hanging rooms. Accompanying adults and or support persons swim free of cha
  rge.\n\n04:00 pm - 05:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -2987,7 +2884,7 @@ DESCRIPTION:This program is offered to those enrolled in a current City of
   their lifesaving skills and receive feedback from aquatic instructors.  R
  egular swim admission standards apply.  Details are listed at burlington.c
  a/playstandards.\n\n07:30 pm - 09:00 pm\nNo fee\n12 spot(s) left
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3011,7 +2908,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3032,7 +2929,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n12:15 pm - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3056,7 +2953,7 @@ DESCRIPTION:This women's only open swim is available to all ages and swimm
  thin Arms Reach\, In the Water and In Swim Attire”.\nWalk-in spots are a
  vailable on a first come first serve basis for all Drop-In Swims.\n\n01:00
   pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3074,7 +2971,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3098,7 +2995,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3117,7 +3014,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:15 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3138,7 +3035,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  ime. Regular Swim Admission & Supervision Standards apply. Details are lis
  ted at burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\
  n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035243Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3158,7 +3055,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3178,7 +3075,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3199,7 +3096,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3220,7 +3117,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3240,7 +3137,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3261,7 +3158,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3282,7 +3179,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n07:30 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3302,7 +3199,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3322,7 +3219,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3343,7 +3240,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3364,7 +3261,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3384,7 +3281,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3404,7 +3301,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035025Z
+LAST-MODIFIED:20241124T035244Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3425,7 +3322,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3445,7 +3342,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3466,7 +3363,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3487,7 +3384,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3507,7 +3404,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3528,7 +3425,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3549,7 +3446,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n06:05 pm - 08:0
  0 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3569,7 +3466,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3589,7 +3486,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3610,7 +3507,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3631,7 +3528,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3651,7 +3548,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3671,7 +3568,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035026Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3692,7 +3589,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n08:30 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3712,7 +3609,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3733,7 +3630,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3754,7 +3651,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3772,7 +3669,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:30 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3791,7 +3688,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n06:00 pm - 08:00 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3809,7 +3706,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  07:15 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3830,7 +3727,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n09:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3853,7 +3750,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:00 am - 12:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3872,7 +3769,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3890,7 +3787,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n01:00 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3908,7 +3805,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3927,7 +3824,7 @@ DESCRIPTION:Come enjoy a sensory-friendly swim\, in an adapted swimming en
  ng rooms. Lap\, leisure and warming pool will be available at this time. A
  ccompanying support persons swim free of charge.\n\n02:00 pm - 03:00 pm\n$
  0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3951,7 +3848,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n02:45 pm - 05:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -3972,7 +3869,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -3995,7 +3892,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4014,7 +3911,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4040,7 +3937,7 @@ DESCRIPTION:This drop-in program strives to make this swim as inclusive as
   In the Water and In Swim Attire”.\nWalk-in spots are available on a fir
  st come first serve basis for all Drop-In Swims.\n\n01:00 pm - 03:00 pm\n$
  0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4063,7 +3960,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4082,7 +3979,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4103,7 +4000,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  ime. Regular Swim Admission & Supervision Standards apply. Details are lis
  ted at burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\
  n
-LAST-MODIFIED:20241123T035027Z
+LAST-MODIFIED:20241124T035245Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4123,7 +4020,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4143,7 +4040,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4164,7 +4061,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 12:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4182,7 +4079,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:05 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4200,7 +4097,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n01:05 pm - 02:35 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4218,7 +4115,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4238,7 +4135,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n06:30 pm - 07:5
  5 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4258,7 +4155,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:5
  5 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4278,7 +4175,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4297,7 +4194,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n09:00 am - 12:00 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4315,7 +4212,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4336,7 +4233,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:5
  5 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4354,7 +4251,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4375,7 +4272,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4396,7 +4293,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4416,7 +4313,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4435,7 +4332,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n10:00 am - 11:55 am\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4453,7 +4350,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:05 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4472,7 +4369,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  07:15 pm - 09:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035028Z
+LAST-MODIFIED:20241124T035246Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4493,7 +4390,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n09:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4516,7 +4413,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:00 am - 12:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4535,7 +4432,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4553,7 +4450,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n01:00 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4571,7 +4468,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4590,7 +4487,7 @@ DESCRIPTION:Come enjoy a sensory-friendly swim\, in an adapted swimming en
  ng rooms. Lap\, leisure and warming pool will be available at this time. A
  ccompanying support persons swim free of charge.\n\n02:00 pm - 03:00 pm\n$
  0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4614,7 +4511,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n02:45 pm - 05:15 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4635,7 +4532,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4658,7 +4555,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n10:35 am - 12:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4677,7 +4574,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4703,7 +4600,7 @@ DESCRIPTION:This drop-in program strives to make this swim as inclusive as
   In the Water and In Swim Attire”.\nWalk-in spots are available on a fir
  st come first serve basis for all Drop-In Swims.\n\n01:00 pm - 03:00 pm\n$
  0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4721,7 +4618,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4744,7 +4641,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n01:35 pm - 02:55 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4766,7 +4663,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  ime. Regular Swim Admission & Supervision Standards apply. Details are lis
  ted at burlington.ca/playstandards.\n\n03:30 pm - 05:30 pm\n$0.00 - $3.33\
  n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4786,7 +4683,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4807,7 +4704,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4827,7 +4724,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4848,7 +4745,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 12:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4868,7 +4765,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n01:00 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4887,7 +4784,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:05 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -4905,7 +4802,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n01:05 pm - 02:35 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4923,7 +4820,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4943,7 +4840,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n06:30 pm - 07:5
  5 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035029Z
+LAST-MODIFIED:20241124T035247Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4963,7 +4860,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:5
  5 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -4983,7 +4880,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5002,7 +4899,7 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n09:00 am - 12:00 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -5020,7 +4917,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5044,7 +4941,7 @@ DESCRIPTION:A recreational swim open to all ages and swimmer abilities\, w
  ision means “Within Arms Reach\, In the Water and In Swim Attire”.\nWa
  lk-in spots are available on a first come first serve basis for all Fun Sw
  ims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5063,7 +4960,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  11:30 am - 01:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5084,7 +4981,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  uring this program time. Regular Swim Admission & Supervision Standards ap
  ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:0
  0 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -5104,7 +5001,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n09:00 am - 10:00 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5125,7 +5022,7 @@ DESCRIPTION:Enjoy the comfort of 88F/31C water. This recreation program is
  . Rock Wall is not available during this program time. Regular Swim Admiss
  ion & Supervision Standards apply. Details are listed at burlington.ca/pla
  ystandards.\n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -5145,7 +5042,7 @@ DESCRIPTION:This recreation program is a great opportunity for all ages to
  re not available during this program time. Regular Swim Admission & Superv
  ision Standards apply. Details are listed at burlington.ca/playstandards.\
  n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5166,7 +5063,7 @@ DESCRIPTION:Enjoy the comfort of the 88F/31C water.  Soak and Stretch is a
  pool. Details are listed at burlington.ca/playstandards.  Pool shared with
   another program in deep end of pool.\n\n12:00 pm - 01:30 pm\n$0.00 - $3.3
  3\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -5186,7 +5083,7 @@ DESCRIPTION:This program is a combination of recreation\, water exercise a
  \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
  f.    \nWalk-in spots are available on a first come first serve basis for 
  all Combo Swims.\n\n12:30 pm - 02:30 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
  4R6
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5204,7 +5101,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
   both lap and leisure pool available for use. Amenities:  Diving board. Re
  gular Swim Admission & Supervision Standards apply. Details are listed at 
  burlington.ca/playstandards.\n\n01:05 pm - 02:35 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
@@ -5222,7 +5119,7 @@ DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
  terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
  on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
  01:05 pm - 03:00 pm\n$0.00 - $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
   L7M 1C7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
@@ -5241,11 +5138,129 @@ DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
  n for use.  Regular Swim Admission & Supervision Standards apply. Details 
  are listed at burlington.ca/playstandards.\n\n01:35 pm - 03:30 pm\n$0.00 -
   $3.33\n
-LAST-MODIFIED:20241123T035030Z
+LAST-MODIFIED:20241124T035248Z
 LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
 URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
  ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
  ededMode=False&classId=4ba6b136-acfe-462d-9f6f-edb7ddef4e9a&occurrenceDate
  =20250102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Combo Swim\, Angela Coughlan Pool\, Lap Pool
+DTSTART:20250103T090000
+DTEND:20240103T105500
+DTSTAMP:20250103T090000
+UID:46b4622a-04d8-542a-9758-34abccbd59ec
+DESCRIPTION:This program is a combination of recreation\, water exercise a
+ nd lap swimming.  Diving board is not available during this program time. 
+  This program offers access to the lap pool only .\nThe pool is divided in
+ to deep and shallow areas with one or two lanes available to complete laps
+ \, capacity in the lane(s) is monitored for safety in mind by Aquatic staf
+ f.    \nWalk-in spots are available on a first come first serve basis for 
+ all Combo Swims.\n\n09:00 am - 10:55 am\n$0.00 - $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Angela Coughlan Pool\, 2425 Upper Middle Road\, Burlington\, L7P 
+ 4R6
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=d3b245c0-607c-0cf4-614b-6f41036bcd49&occurrenceDate
+ =20250103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Combo Swim\, Centennial Pool\, Lap Pool
+DTSTART:20250103T090000
+DTEND:20240103T100000
+DTSTAMP:20250103T090000
+UID:660109de-2ab5-57c7-9e68-d84c618432cf
+DESCRIPTION:This recreation program is a great opportunity for all ages to
+  spend time together at Burlington’s indoor pools. The lap pool is divid
+ ed into deep and shallow areas with a lane available. Capacity in the lane
+  is monitored for safety by Aquatic staff. Diving board is not available d
+ uring this program time. Regular Swim Admission & Supervision Standards ap
+ ply. Details are listed at burlington.ca/playstandards.\n\n09:00 am - 10:0
+ 0 am\n$0.00 - $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Centennial Pool\, 5151 New Street\, Burlington\, L7P 4J5
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=ca3e35d4-2c57-1b1c-34dc-1c2b85c8ff26&occurrenceDate
+ =20250103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Combo Swim\, Tansley Woods Community Centre\, Lap Pool
+DTSTART:20250103T100000
+DTEND:20240103T115500
+DTSTAMP:20250103T100000
+UID:86a6c974-7d06-5d04-9eb0-8272b4664200
+DESCRIPTION:This recreation program is a great opportunity for all ages to
+  spend time together at Burlington’s indoor pools. The lap pool is divid
+ ed into deep and shallow areas with a lane available. Capacity in the lane
+  is monitored for safety by Aquatic staff. Diving Board and leisure pool a
+ re not available during this program time. Regular Swim Admission & Superv
+ ision Standards apply. Details are listed at burlington.ca/playstandards.\
+ n\n10:00 am - 11:55 am\n$0.00 - $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
+  L7M 1C7
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=de333f8a-82ce-d8af-77dd-20572b75a873&occurrenceDate
+ =20250103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun Swim\, Aldershot Pool\, Lap Pool
+DTSTART:20250103T100000
+DTEND:20240103T115500
+DTSTAMP:20250103T100000
+UID:83dc8c88-4617-5c01-a1a0-cd8b696ebcf3
+DESCRIPTION:Come spend time playing and enjoying the warm water at Aldersh
+ ot Pool (88F/31C).  All ages are welcome and the Rock Climbing Wall is ope
+ n for use.  Regular Swim Admission & Supervision Standards apply. Details 
+ are listed at burlington.ca/playstandards.\n\n10:00 am - 11:55 am\n$0.00 -
+  $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Aldershot Pool\, 50 Fairwood Place W\, Burlington\, L7T 2M7
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=17e16ab6-f082-4dfb-9811-b2e95263b24b&occurrenceDate
+ =20250103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun Swim\, Tansley Woods Community Centre\, Lap Pool
+DTSTART:20250103T130500
+DTEND:20240103T150000
+DTSTAMP:20250103T130500
+UID:74c339a7-774d-5e24-bd31-a53c9b762ab0
+DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
+  both lap and leisure pool available for use. Amenities:  Double looped Wa
+ terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
+ on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
+ 01:05 pm - 03:00 pm\n$0.00 - $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
+  L7M 1C7
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=89b5b623-32f7-47f4-b248-85da0d9bc1e8&occurrenceDate
+ =20250103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fun Swim\, Tansley Woods Community Centre\, Lap Pool
+DTSTART:20250103T191500
+DTEND:20240103T213000
+DTSTAMP:20250103T191500
+UID:68cf451b-6856-5f59-b4c2-80b43fcd7987
+DESCRIPTION:A recreational swim open to all ages and swim abilities\, with
+  both lap and leisure pool available for use. Amenities:  Double looped Wa
+ terslide\, warming pool\, diving board. Regular Swim Admission & Supervisi
+ on Standards apply. Details are listed at burlington.ca/playstandards.\n\n
+ 07:15 pm - 09:30 pm\n$0.00 - $3.33\n
+LAST-MODIFIED:20241124T035248Z
+LOCATION:Tansley Woods Community Centre\, 1996 Itabashi Way\, Burlington\,
+  L7M 1C7
+URL:https://cityofburlington.perfectmind.com/22818/Clients/BookMe4LandingP
+ ages/Class?widgetId=ee6566f5-1e27-433c-9c19-86e76a0e3556&redirectedFromEmb
+ ededMode=False&classId=4667f971-0b88-44c6-bc7f-51b8e8c32f2e&occurrenceDate
+ =20250103
 END:VEVENT
 END:VCALENDAR
