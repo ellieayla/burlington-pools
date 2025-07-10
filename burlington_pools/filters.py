@@ -12,7 +12,7 @@ class DropUninterestingEvents:
             "Men's only",
             "Water Running",
             "Aquafit",  # TODO: Reconsider
-            "Lap Swim",
+            # "Lap Swim",
         ]
         for n in reject_names:
             if n in item['name']:
